@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "username": "john_doe",
+    "email": "john.doe@email.com",
+    "preferences": {
+      "theme": "light",
+      "notifications": true,
+      "defaultView": "list",
+      "sortBy": "dueDate",
+      "showCompleted": false
+    },
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "username": "jane_smith",
+    "email": "jane.smith@email.com",
+    "preferences": {
+      "theme": "dark",
+      "notifications": true,
+      "defaultView": "kanban",
+      "sortBy": "priority",
+      "showCompleted": true
+    },
+    "createdAt": "2024-01-02T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "username": "mike_wilson",
+    "email": "mike.wilson@email.com",
+    "preferences": {
+      "theme": "light",
+      "notifications": false,
+      "defaultView": "calendar",
+      "sortBy": "created",
+      "showCompleted": false
+    },
+    "createdAt": "2024-01-03T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "username": "sarah_connor",
+    "email": "sarah.connor@email.com",
+    "preferences": {
+      "theme": "dark",
+      "notifications": true,
+      "defaultView": "list",
+      "sortBy": "status",
+      "showCompleted": true
+    },
+    "createdAt": "2024-01-04T00:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "username": "alex_turner",
+    "email": "alex.turner@email.com",
+    "preferences": {
+      "theme": "light",
+      "notifications": true,
+      "defaultView": "kanban",
+      "sortBy": "dueDate",
+      "showCompleted": false
+    },
+    "createdAt": "2024-01-05T00:00:00.000Z"
+  }
+]
